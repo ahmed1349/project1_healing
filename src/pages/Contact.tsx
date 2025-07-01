@@ -36,13 +36,13 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Support',
-      details: ['support@healing.health', 'partnerships@healing.health', 'press@healing.health'],
+      details: ['ahmed1349.github.io/', 'ahmedrabea1349@gmail.com', 'www.linkedin.com/in/ahmed-rabea-abdalsalam/'],
       color: 'from-blue-500 to-cyan-500'
     },
     {
       icon: Phone,
       title: 'Phone Support',
-      details: ['+966 123 456 789 (Saudi Arabia)', '+971 123 456 789 (UAE)', '+962 123 456 789 (Jordan)'],
+      details: ['+2001027321774 (Egypt)', '+971 123 456 789 (UAE)', '+962 123 456 789 (Jordan)'],
       color: 'from-green-500 to-emerald-500'
     },
     {
@@ -152,7 +152,7 @@ const Contact = () => {
                         type="tel"
                         value={formData.phone}
                         onChange={handleInputChange}
-                        placeholder="+966 123 456 789"
+                        placeholder="+2001027321774"
                       />
                     </div>
                     <div className="space-y-2">
