@@ -1,5 +1,5 @@
 {
-  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https:// ahmed1349.github.io/project1_healing",
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
@@ -11,8 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-
+    "deploy": "gh-pages -d build"
 
   },
   "dependencies": {
