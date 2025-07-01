@@ -27,6 +27,7 @@ export const Footer = () => {
               <span>for better healthcare</span>
             </div>
           </div>
+          
 
           {/* Quick Links */}
           <div>
