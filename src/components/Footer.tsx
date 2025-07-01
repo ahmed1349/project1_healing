@@ -53,22 +53,22 @@ export const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-gray-600">
                 <Mail className="w-4 h-4" />
-                <span>support@healing.health</span>
+                <span>ahmedrabea1349@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-600">
                 <Phone className="w-4 h-4" />
-                <span>+966 123 456 789</span>
+                <span>+2001027321774</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-600">
                 <MapPin className="w-4 h-4" />
-                <span>Middle East</span>
+                <span>New Cairo</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-blue-200 mt-8 pt-8 text-center text-gray-500">
-          <p>&copy; 2024 Healing. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2025 Healing. All rights reserved. | Privacy Policy | Terms of Service</p>
         </div>
       </div>
     </footer>
