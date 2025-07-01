@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to my project 1 in my plan to create 100 website  
 
 ## Project info
 
